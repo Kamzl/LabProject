@@ -51,7 +51,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AnimateWaves: 1
     - _Cull: 2
+    - _MaxDepth: 0.08
     - _Metallic: 0
     - _MoveSpeed: 0.02
     - _QueueControl: 0
@@ -61,14 +63,16 @@ Material:
     - _ShapeDistortMultiply: 1
     - _ShapeSpeed: 0.6
     - _Smoothness: 0.4
-    - _Strengh: 0.138
+    - _Strengh: 0.067
+    - _SurfaceDensity: 0.1
     - _Thickness: 4
-    - _WaveDensity: 20
-    - _WaveSize: 0.3
+    - _WaveDensity: 0.09
+    - _WaveSize: 0.18
+    - _WaveSpeed: 0.55
     m_Colors:
     - _BaseColor: {r: 0.054901943, g: 0.12156858, b: 0.3215686, a: 1}
     - _FoamColor: {r: 0.49803907, g: 0.6666667, b: 0.7882353, a: 1}
-    - _ShallowColor: {r: 0.08096115, g: 0.20971769, b: 0.5169811, a: 0.3647059}
+    - _ShallowColor: {r: 0.2587041, g: 0.45012555, b: 0.6377357, a: 0.3647059}
     - _WaterColor: {r: 0.19499461, g: 0.21443683, b: 0.5773585, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
