@@ -53,6 +53,9 @@ Material:
     m_Floats:
     - _AnimateWaves: 1
     - _Cull: 2
+    - _FogDistanceMax: 600
+    - _FogDistanceMin: 150
+    - _FogPower: 0.5
     - _MaxDepth: 0.08
     - _Metallic: 0
     - _MoveSpeed: 0.02
@@ -72,6 +75,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 0.054901943, g: 0.12156858, b: 0.3215686, a: 1}
     - _FoamColor: {r: 0.49803907, g: 0.6666667, b: 0.7882353, a: 1}
+    - _FogColor: {r: 0.20392157, g: 0.22352941, b: 0.34509805, a: 1}
     - _ShallowColor: {r: 0.2587041, g: 0.45012555, b: 0.6377357, a: 0.3647059}
     - _WaterColor: {r: 0.19499461, g: 0.21443683, b: 0.5773585, a: 1}
   m_BuildTextureStacks: []
