@@ -39,12 +39,15 @@ Material:
     m_Ints: []
     m_Floats:
     - _Cull: 2
-    - _NoiseDensity: 0.09
+    - _LerpPower: 0
+    - _NoiseDensity: 2.08
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ScreenSpaceReflectionsContributeTransparent: 1
     - _WritesColor: 1
-    m_Colors: []
+    m_Colors:
+    - _CloseColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FarColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &7437406430810044491

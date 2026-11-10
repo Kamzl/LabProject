@@ -51,6 +51,9 @@ namespace StarterAssets
 		[Tooltip("How far in degrees can you move the camera down")]
 		public float BottomClamp = -90.0f;
 
+		// public static FirstPersonController Instance { get; private set; }
+		// public Vector3 Position => transform.position;
+		
 		// cinemachine
 		private float _cinemachineTargetPitch;
 

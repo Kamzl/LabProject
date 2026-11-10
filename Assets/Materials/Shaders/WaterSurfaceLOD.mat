@@ -20,7 +20,7 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
+  m_LockedProperties: _Cull
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -40,9 +40,11 @@ Material:
     m_Floats:
     - _AnimateWaves: 0
     - _Cull: 2
-    - _FogDistanceMax: 600
-    - _FogDistanceMin: 150
-    - _FogPower: 0.5
+    - _FogDistanceMax: 300
+    - _FogDistanceMin: 30
+    - _FogDistanceSharpness: 0.4
+    - _FogMultiply: 25
+    - _FogPower: 3
     - _MaxDepth: 0.08
     - _Metallic: 0
     - _MoveSpeed: 0.02
