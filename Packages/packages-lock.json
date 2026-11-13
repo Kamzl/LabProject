@@ -39,7 +39,7 @@
       }
     },
     "com.unity.collab-proxy": {
-      "version": "2.13.6",
+      "version": "2.14.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -78,12 +78,10 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.28",
+      "version": "2.0.29",
       "depth": 0,
       "source": "registry",
-      "dependencies": {
-        "com.unity.test-framework": "1.1.33"
-      },
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
@@ -168,7 +166,7 @@
       }
     },
     "com.unity.splines": {
-      "version": "2.9.0",
+      "version": "2.9.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -180,7 +178,7 @@
     },
     "com.unity.test-framework": {
       "version": "1.9.0",
-      "depth": 1,
+      "depth": 3,
       "source": "builtin",
       "dependencies": {
         "com.unity.ext.nunit": "2.1.0",
