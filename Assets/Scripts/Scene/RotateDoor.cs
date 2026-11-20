@@ -10,10 +10,10 @@ public class RotateDoor : MonoBehaviour
     
     public void Close()
     {
-        transform.DORotate(closeRotation, closeTime);
+        transform.DOLocalRotate(closeRotation, closeTime);
     }
     public void Open()
     {
-        transform.DORotate(openRotation, openTime);
+        transform.DOLocalRotate(openRotation, openTime);
     }
 }
