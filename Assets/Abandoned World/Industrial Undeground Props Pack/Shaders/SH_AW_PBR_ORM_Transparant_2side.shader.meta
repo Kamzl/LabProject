@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e461c84325b5f54aad683023432cf8f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143712
+  packageName: Industrial Underground Props Pack
+  packageVersion: 2.0
+  assetPath: Assets/Abandoned World/Industrial Undeground Props Pack/Shaders/SH_AW_PBR_ORM_Transparant_2side.shader
+  uploadId: 756816

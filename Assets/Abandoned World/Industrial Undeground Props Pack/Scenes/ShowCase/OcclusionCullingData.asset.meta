@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01a13ddee3e587c4995769c6e8bf7a26
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311075
+  packageName: Modular Abandoned Shelter
+  packageVersion: 1.0
+  assetPath: Assets/Abandoned World/Industrial Undeground Props Pack/Scenes/ShowCase/OcclusionCullingData.asset
+  uploadId: 756810
