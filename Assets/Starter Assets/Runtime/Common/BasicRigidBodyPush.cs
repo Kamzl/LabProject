@@ -10,7 +10,7 @@ namespace StarterAssets
 
 		private void OnControllerColliderHit(ControllerColliderHit hit)
 		{
-            if (canPush) PushRigidBodies(hit);
+			if (canPush) PushRigidBodies(hit);
 		}
 
 		private void PushRigidBodies(ControllerColliderHit hit)
