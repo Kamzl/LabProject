@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d5c47ff3d2c8414098e2ab3a0967277
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317481
+  packageName: Modular Mini Bunker
+  packageVersion: 1.0
+  assetPath: Assets/Abandoned World/MiniBunkerRelight/Shaders/SH_AW_PBR_ORM_Transparent_2side.shader
+  uploadId: 756814

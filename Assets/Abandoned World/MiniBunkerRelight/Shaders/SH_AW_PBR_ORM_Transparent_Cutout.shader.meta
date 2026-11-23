@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a81b334592f797245af5de6243b3108e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317481
+  packageName: Modular Mini Bunker
+  packageVersion: 1.0
+  assetPath: Assets/Abandoned World/MiniBunkerRelight/Shaders/SH_AW_PBR_ORM_Transparent_Cutout.shader
+  uploadId: 756814

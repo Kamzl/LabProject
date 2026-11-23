@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7ec32e863ba36b45ad32f9c69a28e80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175045
+  packageName: Modular Pipes & Vent Pack
+  packageVersion: 1.1
+  assetPath: Assets/Abandoned World/MiniBunkerRelight/Materials/M_Vent_Rust.mat
+  uploadId: 757471
